@@ -1,0 +1,8 @@
+RGAPI-0d336bd6-19ac-4ccc-aaa1-b927cb539093
+
+Expires: Tue, Aug 8th, 2023 @ 4:57pm (PT) in 23 hours and 59 minutes
+
+
+https://developer.riotgames.com/docs/lol#data-dragon
+
+https://developer.riotgames.com/docs/lol#data-dragon_items
